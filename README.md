@@ -1,2 +1,2 @@
-# TelemetryBoard_PythonScripts
+.# TelemetryBoard_PythonScripts
 testing board and tunning
